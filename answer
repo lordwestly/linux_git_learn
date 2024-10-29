@@ -1,1 +1,8 @@
 Hello
+# Write down the git command and explain what they statand for
+# git init: this is a command ment foe initiating git
+# git status: this is use to check the your present status
+# git add: this is use to add up the changes you have done
+# git commit: this is use to commit the changes you have made in your local repository
+# git pull: this is use to pull down a file from the repository so as to work or make changes to it
+# git push : this is use to update the changes you have made on your local repository to the romote branch.
