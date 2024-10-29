@@ -1,1 +1,6 @@
 Hello, thank you for being present in class today.
+git add . ""
+git commit
+git init
+git status
+git checkout
