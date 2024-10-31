@@ -1,0 +1,2 @@
+# ls: to list content in ypur directory
+
