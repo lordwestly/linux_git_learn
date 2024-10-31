@@ -4,3 +4,4 @@ git commit
 git init
 git status
 git checkout
+git clone
