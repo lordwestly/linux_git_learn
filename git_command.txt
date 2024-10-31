@@ -1,0 +1,12 @@
+# COMPREHENSIVE LIST OF GIT COMMANDS
+1. git init: this is the initializing command
+2. git version: tjhe command to know the version of your git.
+3. git status: this is a command to know the current situation on your git.
+4. git log: is to outline the activities you have done on the git
+5. git branch is to know the current branch where you are.
+6. git add. : is to add all the current file you have created
+7. git add <name of fil>: this to add a specific file which you have named.
+8. git commit : this is to commit the file you have added.
+9. git push: for pushing or uploading files or changes you have made to your repositary.
+10. git checkout -b <name of new branch>: this is for creating new branch
+11. git checkout <name of branch>: this is to move from one command to the other
