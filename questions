@@ -1,1 +1,4 @@
 write down the git commands explaining what they stand for inside aanswers file
+1. git init
+2. git status
+3. git clone
